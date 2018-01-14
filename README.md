@@ -8,7 +8,9 @@ It consists of useful information about BUDGET AUTHORITY BY AGENCY in the range 
 
 Gross Domestic Value(GDP) comes from DataHub http://datahub.io/core/gdp/r/gdp.csv since it is regularly updated and includes all country codes.
 
-## Preparation 
+*Note that data in `data/budget.csv` starting 2017, the value is estimate value*
+
+## Preparation
 
 There are several steps have been done to get final data.
 

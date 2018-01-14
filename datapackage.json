@@ -81,6 +81,29 @@
   ],
   "views": [
     {
+      "name": "total-budget-usa-on-education",
+      "title": "Total budget USA on Education",
+      "resources": [
+        {
+          "name": "budget",
+          "transform": [
+            {
+              "type": "filter",
+              "expression": "data['Name'] === 'Department of Education'"
+            }
+          ]
+        }
+      ],
+      "specType": "simple",
+      "spec": {
+        "type": "bar",
+        "group": "Year",
+        "series": [
+          "Value"
+        ]
+      }
+    },
+    {
       "name": "usa-education-budget-to-gdp",
       "title": "USA education budget to gdp",
       "resources": ["data"],
@@ -88,7 +111,7 @@
       "spec": {
         "type": "line",
         "group": "YEAR",
-        "series": ["BUDGET_ON_EDUCATION", "GDP", "RATIO"]
+        "series": ["RATIO"]
       }
     },
     {

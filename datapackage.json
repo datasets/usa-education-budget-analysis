@@ -109,7 +109,7 @@
       "resources": ["data"],
       "specType": "simple",
       "spec": {
-        "type": "line",
+        "type": "bar",
         "group": "YEAR",
         "series": ["RATIO"]
       }

@@ -83,58 +83,25 @@
     {
       "name": "total-budget-usa-on-education",
       "title": "Total budget USA on Education",
-      "resources": [
-        {
-          "name": "budget",
-          "transform": [
-            {
-              "type": "filter",
-              "expression": "data['Name'] === 'Department of Education'"
-            }
-          ]
-        }
-      ],
+      "resources": ["data"],
       "specType": "simple",
       "spec": {
         "type": "bar",
         "group": "Year",
         "series": [
-          "Value"
+          "BUDGET_ON_EDUCATION"
         ]
       }
     },
     {
       "name": "usa-education-budget-to-gdp",
-      "title": "USA education budget to gdp",
+      "title": "USA education budget to GDP ratio",
       "resources": ["data"],
       "specType": "simple",
       "spec": {
         "type": "bar",
         "group": "YEAR",
         "series": ["RATIO"]
-      }
-    },
-    {
-      "name": "total-budget-usa",
-      "title": "Total budget in USA",
-      "resources": [
-        {
-          "name": "budget",
-          "transform": [
-            {
-              "type": "filter",
-              "expression": "data['Name'] === 'Total budget authority'"
-            }
-          ]
-        }
-      ],
-      "specType": "simple",
-      "spec": {
-        "type": "line",
-        "group": "Year",
-        "series": [
-          "Value"
-        ]
       }
     }
   ]

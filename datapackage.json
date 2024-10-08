@@ -87,7 +87,7 @@
       "specType": "simple",
       "spec": {
         "type": "bar",
-        "group": "Year",
+        "group": "YEAR",
         "series": [
           "BUDGET_ON_EDUCATION"
         ]

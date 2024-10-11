@@ -1,9 +1,9 @@
 {
   "title": "United States of America education budget analysis",
   "name": "usa-education-budget-analysis",
-  "sources":[
+  "sources": [
     {
-      "title": "Office of Management and Budget, President’s Budget from white house official website",
+      "title": "Office of Management and Budget, President\u2019s Budget from white house official website",
       "path": "https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/budget/fy2018/hist05z2.xls"
     },
     {
@@ -20,12 +20,12 @@
   ],
   "resources": [
     {
-      "profile": "tabular-data-resource", 
-      "name": "data", 
-      "format": "csv", 
-      "encoding": "utf-8", 
-      "mediatype": "text/csv", 
-      "path": "data/data.csv", 
+      "profile": "tabular-data-resource",
+      "name": "data",
+      "format": "csv",
+      "encoding": "utf-8",
+      "mediatype": "text/csv",
+      "path": "data/data.csv",
       "schema": {
         "fields": [
           {
@@ -37,12 +37,12 @@
             "name": "BUDGET_ON_EDUCATION",
             "type": "number",
             "description": "in millions of dollars"
-          }, 
+          },
           {
             "name": "GDP",
             "type": "number",
             "description": "in millions of dollars"
-          }, 
+          },
           {
             "name": "RATIO",
             "type": "number",
@@ -52,12 +52,12 @@
       }
     },
     {
-      "profile": "tabular-data-resource", 
-      "name": "budget", 
-      "format": "csv", 
-      "encoding": "utf-8", 
-      "mediatype": "text/csv", 
-      "path": "data/budget.csv", 
+      "profile": "tabular-data-resource",
+      "name": "budget",
+      "format": "csv",
+      "encoding": "utf-8",
+      "mediatype": "text/csv",
+      "path": "data/budget.csv",
       "schema": {
         "fields": [
           {
@@ -69,7 +69,7 @@
             "name": "Year",
             "type": "year",
             "description": "Date in the form of %Y"
-          }, 
+          },
           {
             "name": "Value",
             "type": "string",
@@ -83,13 +83,18 @@
     {
       "name": "usa-education-budget-to-gdp",
       "title": "USA education budget to GDP ratio",
-      "resources": ["data"],
+      "resources": [
+        "data"
+      ],
       "specType": "simple",
       "spec": {
         "type": "bar",
         "group": "YEAR",
-        "series": ["RATIO"]
+        "series": [
+          "RATIO"
+        ]
       }
     }
-  ]
+  ],
+  "collection": "education"
 }

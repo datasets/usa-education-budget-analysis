@@ -40,12 +40,19 @@ Legislative Branch,2013,4258.0
 Legislative Branch,2014,4462.0
 Legislative Branch,2015,4506.0
 Legislative Branch,2016,4570.0
-Legislative Branch,2017,4570.0
-Legislative Branch,2018,5173.0
-Legislative Branch,2019,5195.0
-Legislative Branch,2020,5195.0
-Legislative Branch,2021,5198.0
-Legislative Branch,2022,5206.0
+Legislative Branch,2017,4687.0
+Legislative Branch,2018,4981.0
+Legislative Branch,2019,5061.0
+Legislative Branch,2020,5376.0
+Legislative Branch,2021,6062.0
+Legislative Branch,2022,6315.0
+Legislative Branch,2023,7155.0
+Legislative Branch,2024,7131.0
+Legislative Branch,2025,7570.0
+Legislative Branch,2026,7737.0
+Legislative Branch,2027,7914.0
+Legislative Branch,2028,8084.0
+Legislative Branch,2029,8269.0
 Judicial Branch,1976,346.0
 Judicial Branch,1977,431.0
 Judicial Branch,1978,459.0
@@ -87,12 +94,19 @@ Judicial Branch,2013,6926.0
 Judicial Branch,2014,7284.0
 Judicial Branch,2015,7404.0
 Judicial Branch,2016,7596.0
-Judicial Branch,2017,7613.0
-Judicial Branch,2018,8115.0
-Judicial Branch,2019,8082.0
-Judicial Branch,2020,8116.0
-Judicial Branch,2021,8160.0
-Judicial Branch,2022,8181.0
+Judicial Branch,2017,7760.0
+Judicial Branch,2018,7908.0
+Judicial Branch,2019,8134.0
+Judicial Branch,2020,8413.0
+Judicial Branch,2021,8664.0
+Judicial Branch,2022,8965.0
+Judicial Branch,2023,9580.0
+Judicial Branch,2024,9462.0
+Judicial Branch,2025,10454.0
+Judicial Branch,2026,10611.0
+Judicial Branch,2027,10841.0
+Judicial Branch,2028,11072.0
+Judicial Branch,2029,11310.0
 Department of Agriculture,1976,20690.0
 Department of Agriculture,1977,21841.0
 Department of Agriculture,1978,26659.0
@@ -134,12 +148,19 @@ Department of Agriculture,2013,154924.0
 Department of Agriculture,2014,157510.0
 Department of Agriculture,2015,142471.0
 Department of Agriculture,2016,168801.0
-Department of Agriculture,2017,139269.0
-Department of Agriculture,2018,132267.0
-Department of Agriculture,2019,129792.0
-Department of Agriculture,2020,129518.0
-Department of Agriculture,2021,127657.0
-Department of Agriculture,2022,126499.0
+Department of Agriculture,2017,136547.0
+Department of Agriculture,2018,142537.0
+Department of Agriculture,2019,166709.0
+Department of Agriculture,2020,235204.0
+Department of Agriculture,2021,275050.0
+Department of Agriculture,2022,293537.0
+Department of Agriculture,2023,290999.0
+Department of Agriculture,2024,219459.0
+Department of Agriculture,2025,223002.0
+Department of Agriculture,2026,232711.0
+Department of Agriculture,2027,229882.0
+Department of Agriculture,2028,234917.0
+Department of Agriculture,2029,239274.0
 Department of Commerce,1976,1732.0
 Department of Commerce,1977,7814.0
 Department of Commerce,1978,1892.0
@@ -181,12 +202,19 @@ Department of Commerce,2013,7959.0
 Department of Commerce,2014,10113.0
 Department of Commerce,2015,13817.0
 Department of Commerce,2016,10351.0
-Department of Commerce,2017,9490.0
-Department of Commerce,2018,8029.0
-Department of Commerce,2019,10150.0
-Department of Commerce,2020,13568.0
-Department of Commerce,2021,8156.0
-Department of Commerce,2022,7744.0
+Department of Commerce,2017,9486.0
+Department of Commerce,2018,18269.0
+Department of Commerce,2019,12520.0
+Department of Commerce,2020,17388.0
+Department of Commerce,2021,14297.0
+Department of Commerce,2022,84861.0
+Department of Commerce,2023,44970.0
+Department of Commerce,2024,19002.0
+Department of Commerce,2025,11000.0
+Department of Commerce,2026,21808.0
+Department of Commerce,2027,15482.0
+Department of Commerce,2028,13708.0
+Department of Commerce,2029,16496.0
 Department of Defense--Military Programs,1976,95503.0
 Department of Defense--Military Programs,1977,107906.0
 Department of Defense--Military Programs,1978,114531.0
@@ -226,14 +254,21 @@ Department of Defense--Military Programs,2011,691471.0
 Department of Defense--Military Programs,2012,655397.0
 Department of Defense--Military Programs,2013,585239.0
 Department of Defense--Military Programs,2014,595723.0
-Department of Defense--Military Programs,2015,570861.0
+Department of Defense--Military Programs,2015,570843.0
 Department of Defense--Military Programs,2016,595715.0
-Department of Defense--Military Programs,2017,626229.0
-Department of Defense--Military Programs,2018,646977.0
-Department of Defense--Military Programs,2019,594543.0
-Department of Defense--Military Programs,2020,607132.0
-Department of Defense--Military Programs,2021,619906.0
-Department of Defense--Military Programs,2022,632617.0
+Department of Defense--Military Programs,2017,626231.0
+Department of Defense--Military Programs,2018,694617.0
+Department of Defense--Military Programs,2019,712274.0
+Department of Defense--Military Programs,2020,738739.0
+Department of Defense--Military Programs,2021,719495.0
+Department of Defense--Military Programs,2022,795548.0
+Department of Defense--Military Programs,2023,874357.0
+Department of Defense--Military Programs,2024,895287.0
+Department of Defense--Military Programs,2025,872170.0
+Department of Defense--Military Programs,2026,899837.0
+Department of Defense--Military Programs,2027,918107.0
+Department of Defense--Military Programs,2028,936994.0
+Department of Defense--Military Programs,2029,956624.0
 Department of Education,1976,9314.0
 Department of Education,1977,10568.0
 Department of Education,1978,11625.0
@@ -275,12 +310,19 @@ Department of Education,2013,39495.0
 Department of Education,2014,55200.0
 Department of Education,2015,87258.0
 Department of Education,2016,76977.0
-Department of Education,2017,114800.0
-Department of Education,2018,60971.0
-Department of Education,2019,65952.0
-Department of Education,2020,63758.0
-Department of Education,2021,63818.0
-Department of Education,2022,62320.0
+Department of Education,2017,114844.0
+Department of Education,2018,72114.0
+Department of Education,2019,106293.0
+Department of Education,2020,230750.0
+Department of Education,2021,469465.0
+Department of Education,2022,565388.0
+Department of Education,2023,-100326.0
+Department of Education,2024,196388.0
+Department of Education,2025,278488.0
+Department of Education,2026,141114.0
+Department of Education,2027,145032.0
+Department of Education,2028,152682.0
+Department of Education,2029,158551.0
 Department of Energy,1976,4970.0
 Department of Energy,1977,7021.0
 Department of Energy,1978,10467.0
@@ -322,12 +364,19 @@ Department of Energy,2013,21221.0
 Department of Energy,2014,22174.0
 Department of Energy,2015,25393.0
 Department of Energy,2016,27335.0
-Department of Energy,2017,28013.0
-Department of Energy,2018,20067.0
-Department of Energy,2019,22728.0
-Department of Energy,2020,25327.0
-Department of Energy,2021,24882.0
-Department of Energy,2022,24975.0
+Department of Energy,2017,27501.0
+Department of Energy,2018,31454.0
+Department of Energy,2019,32295.0
+Department of Energy,2020,35891.0
+Department of Energy,2021,36626.0
+Department of Energy,2022,91689.0
+Department of Energy,2023,48631.0
+Department of Energy,2024,59226.0
+Department of Energy,2025,60911.0
+Department of Energy,2026,60168.0
+Department of Energy,2027,52326.0
+Department of Energy,2028,51605.0
+Department of Energy,2029,52785.0
 Department of Health and Human Services,1976,40368.0
 Department of Health and Human Services,1977,47035.0
 Department of Health and Human Services,1978,51891.0
@@ -368,13 +417,20 @@ Department of Health and Human Services,2012,874458.0
 Department of Health and Human Services,2013,873330.0
 Department of Health and Human Services,2014,960955.0
 Department of Health and Human Services,2015,1045165.0
-Department of Health and Human Services,2016,1118986.0
-Department of Health and Human Services,2017,1126687.0
-Department of Health and Human Services,2018,1112443.0
-Department of Health and Human Services,2019,1212309.0
-Department of Health and Human Services,2020,1289034.0
-Department of Health and Human Services,2021,1351437.0
-Department of Health and Human Services,2022,1457442.0
+Department of Health and Human Services,2016,1119006.0
+Department of Health and Human Services,2017,1144013.0
+Department of Health and Human Services,2018,1176362.0
+Department of Health and Human Services,2019,1283975.0
+Department of Health and Human Services,2020,1721365.0
+Department of Health and Human Services,2021,1675810.0
+Department of Health and Human Services,2022,1635325.0
+Department of Health and Human Services,2023,1799739.0
+Department of Health and Human Services,2024,1700979.0
+Department of Health and Human Services,2025,1834264.0
+Department of Health and Human Services,2026,1955244.0
+Department of Health and Human Services,2027,2096149.0
+Department of Health and Human Services,2028,2310591.0
+Department of Health and Human Services,2029,2335505.0
 Department of Homeland Security,1976,2423.0
 Department of Homeland Security,1977,2881.0
 Department of Homeland Security,1978,3314.0
@@ -416,12 +472,19 @@ Department of Homeland Security,2013,61873.0
 Department of Homeland Security,2014,44146.0
 Department of Homeland Security,2015,45269.0
 Department of Homeland Security,2016,46021.0
-Department of Homeland Security,2017,51026.0
-Department of Homeland Security,2018,49386.0
-Department of Homeland Security,2019,50886.0
-Department of Homeland Security,2020,51982.0
-Department of Homeland Security,2021,53303.0
-Department of Homeland Security,2022,53702.0
+Department of Homeland Security,2017,62277.0
+Department of Homeland Security,2018,102988.0
+Department of Homeland Security,2019,61407.0
+Department of Homeland Security,2020,114212.0
+Department of Homeland Security,2021,123224.0
+Department of Homeland Security,2022,78038.0
+Department of Homeland Security,2023,86827.0
+Department of Homeland Security,2024,112260.0
+Department of Homeland Security,2025,88297.0
+Department of Homeland Security,2026,76431.0
+Department of Homeland Security,2027,76933.0
+Department of Homeland Security,2028,79781.0
+Department of Homeland Security,2029,81036.0
 Department of Housing and Urban Development,1976,29200.0
 Department of Housing and Urban Development,1977,33818.0
 Department of Housing and Urban Development,1978,37994.0
@@ -463,12 +526,19 @@ Department of Housing and Urban Development,2013,68969.0
 Department of Housing and Urban Development,2014,42676.0
 Department of Housing and Urban Development,2015,44115.0
 Department of Housing and Urban Development,2016,48843.0
-Department of Housing and Urban Development,2017,51544.0
-Department of Housing and Urban Development,2018,39715.0
-Department of Housing and Urban Development,2019,39739.0
-Department of Housing and Urban Development,2020,39771.0
-Department of Housing and Urban Development,2021,39793.0
-Department of Housing and Urban Development,2022,39817.0
+Department of Housing and Urban Development,2017,60734.0
+Department of Housing and Urban Development,2018,81310.0
+Department of Housing and Urban Development,2019,56769.0
+Department of Housing and Urban Development,2020,73755.0
+Department of Housing and Urban Development,2021,69382.0
+Department of Housing and Urban Development,2022,67751.0
+Department of Housing and Urban Development,2023,75706.0
+Department of Housing and Urban Development,2024,70204.0
+Department of Housing and Urban Development,2025,105714.0
+Department of Housing and Urban Development,2026,79908.0
+Department of Housing and Urban Development,2027,81984.0
+Department of Housing and Urban Development,2028,84137.0
+Department of Housing and Urban Development,2029,85201.0
 Department of the Interior,1976,2733.0
 Department of the Interior,1977,3741.0
 Department of the Interior,1978,4639.0
@@ -510,12 +580,19 @@ Department of the Interior,2013,11761.0
 Department of the Interior,2014,11898.0
 Department of the Interior,2015,12538.0
 Department of the Interior,2016,13969.0
-Department of the Interior,2017,13718.0
-Department of the Interior,2018,12461.0
-Department of the Interior,2019,12105.0
-Department of the Interior,2020,12191.0
-Department of the Interior,2021,12024.0
-Department of the Interior,2022,11931.0
+Department of the Interior,2017,13888.0
+Department of the Interior,2018,14986.0
+Department of the Interior,2019,15868.0
+Department of the Interior,2020,19294.0
+Department of the Interior,2021,20746.0
+Department of the Interior,2022,46034.0
+Department of the Interior,2023,22715.0
+Department of the Interior,2024,21576.0
+Department of the Interior,2025,23910.0
+Department of the Interior,2026,21891.0
+Department of the Interior,2027,19753.0
+Department of the Interior,2028,19964.0
+Department of the Interior,2029,20208.0
 Department of Justice,1976,2066.0
 Department of Justice,1977,2204.0
 Department of Justice,1978,2212.0
@@ -557,12 +634,19 @@ Department of Justice,2013,28106.0
 Department of Justice,2014,32753.0
 Department of Justice,2015,29371.0
 Department of Justice,2016,32114.0
-Department of Justice,2017,39133.0
-Department of Justice,2018,31642.0
-Department of Justice,2019,31787.0
-Department of Justice,2020,31893.0
-Department of Justice,2021,32013.0
-Department of Justice,2022,32120.0
+Department of Justice,2017,37048.0
+Department of Justice,2018,36606.0
+Department of Justice,2019,34656.0
+Department of Justice,2020,37285.0
+Department of Justice,2021,38715.0
+Department of Justice,2022,41444.0
+Department of Justice,2023,50290.0
+Department of Justice,2024,44220.0
+Department of Justice,2025,45731.0
+Department of Justice,2026,48488.0
+Department of Justice,2027,49489.0
+Department of Justice,2028,50520.0
+Department of Justice,2029,51269.0
 Department of Labor,1976,22933.0
 Department of Labor,1977,31194.0
 Department of Labor,1978,16826.0
@@ -604,12 +688,19 @@ Department of Labor,2013,82267.0
 Department of Labor,2014,55782.0
 Department of Labor,2015,45953.0
 Department of Labor,2016,46991.0
-Department of Labor,2017,47340.0
-Department of Labor,2018,45778.0
-Department of Labor,2019,46822.0
-Department of Labor,2020,50275.0
-Department of Labor,2021,52114.0
-Department of Labor,2022,54172.0
+Department of Labor,2017,44850.0
+Department of Labor,2018,43208.0
+Department of Labor,2019,42260.0
+Department of Labor,2020,506621.0
+Department of Labor,2021,460053.0
+Department of Labor,2022,45436.0
+Department of Labor,2023,91854.0
+Department of Labor,2024,84893.0
+Department of Labor,2025,72966.0
+Department of Labor,2026,60618.0
+Department of Labor,2027,61742.0
+Department of Labor,2028,64500.0
+Department of Labor,2029,67939.0
 Department of State,1976,1251.0
 Department of State,1977,1530.0
 Department of State,1978,1798.0
@@ -651,12 +742,19 @@ Department of State,2013,29584.0
 Department of State,2014,28586.0
 Department of State,2015,29118.0
 Department of State,2016,29828.0
-Department of State,2017,31373.0
-Department of State,2018,23454.0
-Department of State,2019,17169.0
-Department of State,2020,17187.0
-Department of State,2021,17207.0
-Department of State,2022,17227.0
+Department of State,2017,31512.0
+Department of State,2018,29927.0
+Department of State,2019,30410.0
+Department of State,2020,31816.0
+Department of State,2021,36377.0
+Department of State,2022,36602.0
+Department of State,2023,34308.0
+Department of State,2024,38455.0
+Department of State,2025,32785.0
+Department of State,2026,34482.0
+Department of State,2027,35274.0
+Department of State,2028,36085.0
+Department of State,2029,36917.0
 Department of Transportation,1976,9977.0
 Department of Transportation,1977,8456.0
 Department of Transportation,1978,12611.0
@@ -698,12 +796,19 @@ Department of Transportation,2013,82816.0
 Department of Transportation,2014,71311.0
 Department of Transportation,2015,71898.0
 Department of Transportation,2016,75727.0
-Department of Transportation,2017,77456.0
-Department of Transportation,2018,75715.0
-Department of Transportation,2019,77108.0
-Department of Transportation,2020,70892.0
-Department of Transportation,2021,67931.0
-Department of Transportation,2022,67935.0
+Department of Transportation,2017,78251.0
+Department of Transportation,2018,88063.0
+Department of Transportation,2019,88711.0
+Department of Transportation,2020,122026.0
+Department of Transportation,2021,157619.0
+Department of Transportation,2022,147838.0
+Department of Transportation,2023,142131.0
+Department of Transportation,2024,146848.0
+Department of Transportation,2025,145029.0
+Department of Transportation,2026,147361.0
+Department of Transportation,2027,112171.0
+Department of Transportation,2028,112789.0
+Department of Transportation,2029,113418.0
 Department of the Treasury,1976,45880.0
 Department of the Treasury,1977,49491.0
 Department of the Treasury,1978,56370.0
@@ -745,12 +850,19 @@ Department of the Treasury,2013,440900.0
 Department of the Treasury,2014,442972.0
 Department of the Treasury,2015,485987.0
 Department of the Treasury,2016,519865.0
-Department of the Treasury,2017,562976.0
-Department of the Treasury,2018,600874.0
-Department of the Treasury,2019,663266.0
-Department of the Treasury,2020,727169.0
-Department of the Treasury,2021,790906.0
-Department of the Treasury,2022,846302.0
+Department of the Treasury,2017,548859.0
+Department of the Treasury,2018,633499.0
+Department of the Treasury,2019,700238.0
+Department of the Treasury,2020,1635439.0
+Department of the Treasury,2021,1336293.0
+Department of the Treasury,2022,1109801.0
+Department of the Treasury,2023,1113021.0
+Department of the Treasury,2024,1313947.0
+Department of the Treasury,2025,1585285.0
+Department of the Treasury,2026,1503120.0
+Department of the Treasury,2027,1539412.0
+Department of the Treasury,2028,1619768.0
+Department of the Treasury,2029,1692830.0
 Department of Veterans Affairs,1976,19653.0
 Department of Veterans Affairs,1977,19043.0
 Department of Veterans Affairs,1978,19013.0
@@ -792,12 +904,19 @@ Department of Veterans Affairs,2013,135984.0
 Department of Veterans Affairs,2014,165657.0
 Department of Veterans Affairs,2015,160466.0
 Department of Veterans Affairs,2016,163330.0
-Department of Veterans Affairs,2017,176630.0
-Department of Veterans Affairs,2018,183108.0
-Department of Veterans Affairs,2019,191599.0
-Department of Veterans Affairs,2020,204063.0
-Department of Veterans Affairs,2021,211592.0
-Department of Veterans Affairs,2022,219311.0
+Department of Veterans Affairs,2017,178777.0
+Department of Veterans Affairs,2018,191825.0
+Department of Veterans Affairs,2019,194204.0
+Department of Veterans Affairs,2020,233259.0
+Department of Veterans Affairs,2021,255439.0
+Department of Veterans Affairs,2022,269507.0
+Department of Veterans Affairs,2023,303145.0
+Department of Veterans Affairs,2024,345097.0
+Department of Veterans Affairs,2025,364258.0
+Department of Veterans Affairs,2026,396681.0
+Department of Veterans Affairs,2027,416110.0
+Department of Veterans Affairs,2028,437249.0
+Department of Veterans Affairs,2029,458527.0
 Corps of Engineers--Civil Works,1976,2177.0
 Corps of Engineers--Civil Works,1977,2479.0
 Corps of Engineers--Civil Works,1978,2781.0
@@ -839,59 +958,73 @@ Corps of Engineers--Civil Works,2013,9716.0
 Corps of Engineers--Civil Works,2014,5612.0
 Corps of Engineers--Civil Works,2015,5477.0
 Corps of Engineers--Civil Works,2016,6042.0
-Corps of Engineers--Civil Works,2017,6907.0
-Corps of Engineers--Civil Works,2018,4906.0
-Corps of Engineers--Civil Works,2019,4908.0
-Corps of Engineers--Civil Works,2020,4792.0
-Corps of Engineers--Civil Works,2021,4915.0
-Corps of Engineers--Civil Works,2022,4918.0
-Other Defense Civil Programs,1976,7390.0
-Other Defense Civil Programs,1977,8273.0
-Other Defense Civil Programs,1978,9213.0
-Other Defense Civil Programs,1979,10319.0
-Other Defense Civil Programs,1980,12020.0
-Other Defense Civil Programs,1981,13898.0
-Other Defense Civil Programs,1982,15043.0
-Other Defense Civil Programs,1983,16218.0
-Other Defense Civil Programs,1984,16587.0
-Other Defense Civil Programs,1985,17270.0
-Other Defense Civil Programs,1986,17519.0
-Other Defense Civil Programs,1987,18034.0
-Other Defense Civil Programs,1988,19121.0
-Other Defense Civil Programs,1989,20354.0
-Other Defense Civil Programs,1990,21802.0
-Other Defense Civil Programs,1991,23399.0
-Other Defense Civil Programs,1992,24795.0
-Other Defense Civil Programs,1993,26079.0
-Other Defense Civil Programs,1994,27050.0
-Other Defense Civil Programs,1995,28072.0
-Other Defense Civil Programs,1996,29094.0
-Other Defense Civil Programs,1997,30346.0
-Other Defense Civil Programs,1998,31321.0
-Other Defense Civil Programs,1999,32079.0
-Other Defense Civil Programs,2000,32924.0
-Other Defense Civil Programs,2001,34339.0
-Other Defense Civil Programs,2002,35383.0
-Other Defense Civil Programs,2003,39941.0
-Other Defense Civil Programs,2004,41846.0
-Other Defense Civil Programs,2005,43716.0
-Other Defense Civil Programs,2006,44672.0
-Other Defense Civil Programs,2007,47187.0
-Other Defense Civil Programs,2008,45430.0
-Other Defense Civil Programs,2009,57482.0
-Other Defense Civil Programs,2010,54786.0
-Other Defense Civil Programs,2011,51073.0
-Other Defense Civil Programs,2012,81067.0
-Other Defense Civil Programs,2013,57553.0
-Other Defense Civil Programs,2014,57514.0
-Other Defense Civil Programs,2015,62584.0
-Other Defense Civil Programs,2016,60139.0
-Other Defense Civil Programs,2017,57572.0
-Other Defense Civil Programs,2018,61060.0
-Other Defense Civil Programs,2019,63533.0
-Other Defense Civil Programs,2020,64809.0
-Other Defense Civil Programs,2021,66753.0
-Other Defense Civil Programs,2022,69149.0
+Corps of Engineers--Civil Works,2017,7089.0
+Corps of Engineers--Civil Works,2018,24220.0
+Corps of Engineers--Civil Works,2019,10197.0
+Corps of Engineers--Civil Works,2020,7637.0
+Corps of Engineers--Civil Works,2021,7284.0
+Corps of Engineers--Civil Works,2022,28418.0
+Corps of Engineers--Civil Works,2023,10783.0
+Corps of Engineers--Civil Works,2024,9533.0
+Corps of Engineers--Civil Works,2025,7043.0
+Corps of Engineers--Civil Works,2026,7198.0
+Corps of Engineers--Civil Works,2027,7365.0
+Corps of Engineers--Civil Works,2028,7536.0
+Corps of Engineers--Civil Works,2029,7712.0
+Other Defense--Civil Programs,1976,7390.0
+Other Defense--Civil Programs,1977,8273.0
+Other Defense--Civil Programs,1978,9213.0
+Other Defense--Civil Programs,1979,10319.0
+Other Defense--Civil Programs,1980,12020.0
+Other Defense--Civil Programs,1981,13898.0
+Other Defense--Civil Programs,1982,15043.0
+Other Defense--Civil Programs,1983,16218.0
+Other Defense--Civil Programs,1984,16587.0
+Other Defense--Civil Programs,1985,17270.0
+Other Defense--Civil Programs,1986,17519.0
+Other Defense--Civil Programs,1987,18034.0
+Other Defense--Civil Programs,1988,19121.0
+Other Defense--Civil Programs,1989,20354.0
+Other Defense--Civil Programs,1990,21802.0
+Other Defense--Civil Programs,1991,23399.0
+Other Defense--Civil Programs,1992,24795.0
+Other Defense--Civil Programs,1993,26079.0
+Other Defense--Civil Programs,1994,27050.0
+Other Defense--Civil Programs,1995,28072.0
+Other Defense--Civil Programs,1996,29094.0
+Other Defense--Civil Programs,1997,30346.0
+Other Defense--Civil Programs,1998,31321.0
+Other Defense--Civil Programs,1999,32079.0
+Other Defense--Civil Programs,2000,32924.0
+Other Defense--Civil Programs,2001,34339.0
+Other Defense--Civil Programs,2002,35383.0
+Other Defense--Civil Programs,2003,39941.0
+Other Defense--Civil Programs,2004,41846.0
+Other Defense--Civil Programs,2005,43716.0
+Other Defense--Civil Programs,2006,44672.0
+Other Defense--Civil Programs,2007,47187.0
+Other Defense--Civil Programs,2008,45430.0
+Other Defense--Civil Programs,2009,57482.0
+Other Defense--Civil Programs,2010,54786.0
+Other Defense--Civil Programs,2011,51073.0
+Other Defense--Civil Programs,2012,81067.0
+Other Defense--Civil Programs,2013,57553.0
+Other Defense--Civil Programs,2014,57514.0
+Other Defense--Civil Programs,2015,62584.0
+Other Defense--Civil Programs,2016,60139.0
+Other Defense--Civil Programs,2017,58655.0
+Other Defense--Civil Programs,2018,60054.0
+Other Defense--Civil Programs,2019,61212.0
+Other Defense--Civil Programs,2020,65421.0
+Other Defense--Civil Programs,2021,57946.0
+Other Defense--Civil Programs,2022,52251.0
+Other Defense--Civil Programs,2023,69195.0
+Other Defense--Civil Programs,2024,73027.0
+Other Defense--Civil Programs,2025,83191.0
+Other Defense--Civil Programs,2026,82816.0
+Other Defense--Civil Programs,2027,85341.0
+Other Defense--Civil Programs,2028,88257.0
+Other Defense--Civil Programs,2029,90486.0
 Environmental Protection Agency,1976,772.0
 Environmental Protection Agency,1977,2764.0
 Environmental Protection Agency,1978,5499.0
@@ -933,12 +1066,19 @@ Environmental Protection Agency,2013,8413.0
 Environmental Protection Agency,2014,9124.0
 Environmental Protection Agency,2015,7846.0
 Environmental Protection Agency,2016,8208.0
-Environmental Protection Agency,2017,8233.0
-Environmental Protection Agency,2018,5659.0
-Environmental Protection Agency,2019,5927.0
-Environmental Protection Agency,2020,5926.0
-Environmental Protection Agency,2021,5930.0
-Environmental Protection Agency,2022,5935.0
+Environmental Protection Agency,2017,8186.0
+Environmental Protection Agency,2018,8825.0
+Environmental Protection Agency,2019,9218.0
+Environmental Protection Agency,2020,9370.0
+Environmental Protection Agency,2021,9326.0
+Environmental Protection Agency,2022,65211.0
+Environmental Protection Agency,2023,23417.0
+Environmental Protection Agency,2024,23502.0
+Environmental Protection Agency,2025,25180.0
+Environmental Protection Agency,2026,25480.0
+Environmental Protection Agency,2027,13779.0
+Environmental Protection Agency,2028,14102.0
+Environmental Protection Agency,2029,14425.0
 Executive Office of the President,1976,70.0
 Executive Office of the President,1977,79.0
 Executive Office of the President,1978,79.0
@@ -980,12 +1120,19 @@ Executive Office of the President,2013,365.0
 Executive Office of the President,2014,378.0
 Executive Office of the President,2015,3508.0
 Executive Office of the President,2016,396.0
-Executive Office of the President,2017,425.0
-Executive Office of the President,2018,406.0
-Executive Office of the President,2019,406.0
-Executive Office of the President,2020,406.0
-Executive Office of the President,2021,406.0
-Executive Office of the President,2022,406.0
+Executive Office of the President,2017,432.0
+Executive Office of the President,2018,412.0
+Executive Office of the President,2019,445.0
+Executive Office of the President,2020,491.0
+Executive Office of the President,2021,638.0
+Executive Office of the President,2022,548.0
+Executive Office of the President,2023,532.0
+Executive Office of the President,2024,531.0
+Executive Office of the President,2025,573.0
+Executive Office of the President,2026,584.0
+Executive Office of the President,2027,598.0
+Executive Office of the President,2028,611.0
+Executive Office of the President,2029,627.0
 General Services Administration,1976,251.0
 General Services Administration,1977,312.0
 General Services Administration,1978,137.0
@@ -1027,12 +1174,19 @@ General Services Administration,2013,-1255.0
 General Services Administration,2014,1932.0
 General Services Administration,2015,-481.0
 General Services Administration,2016,555.0
-General Services Administration,2017,200.0
-General Services Administration,2018,465.0
-General Services Administration,2019,465.0
-General Services Administration,2020,466.0
-General Services Administration,2021,464.0
-General Services Administration,2022,464.0
+General Services Administration,2017,-1291.0
+General Services Administration,2018,-535.0
+General Services Administration,2019,-195.0
+General Services Administration,2020,-826.0
+General Services Administration,2021,214.0
+General Services Administration,2022,6115.0
+General Services Administration,2023,103.0
+General Services Administration,2024,-657.0
+General Services Administration,2025,10653.0
+General Services Administration,2026,663.0
+General Services Administration,2027,673.0
+General Services Administration,2028,683.0
+General Services Administration,2029,695.0
 International Assistance Programs,1976,10907.0
 International Assistance Programs,1977,5334.0
 International Assistance Programs,1978,8737.0
@@ -1074,12 +1228,19 @@ International Assistance Programs,2013,10775.0
 International Assistance Programs,2014,27987.0
 International Assistance Programs,2015,32730.0
 International Assistance Programs,2016,20768.0
-International Assistance Programs,2017,23045.0
-International Assistance Programs,2018,19265.0
-International Assistance Programs,2019,3644.0
-International Assistance Programs,2020,6120.0
-International Assistance Programs,2021,8181.0
-International Assistance Programs,2022,9859.0
+International Assistance Programs,2017,34262.0
+International Assistance Programs,2018,48982.0
+International Assistance Programs,2019,46272.0
+International Assistance Programs,2020,39913.0
+International Assistance Programs,2021,37531.0
+International Assistance Programs,2022,62221.0
+International Assistance Programs,2023,84078.0
+International Assistance Programs,2024,92597.0
+International Assistance Programs,2025,55360.0
+International Assistance Programs,2026,54427.0
+International Assistance Programs,2027,56105.0
+International Assistance Programs,2028,58000.0
+International Assistance Programs,2029,58729.0
 National Aeronautics and Space Administration,1976,3552.0
 National Aeronautics and Space Administration,1977,3876.0
 National Aeronautics and Space Administration,1978,4244.0
@@ -1121,12 +1282,19 @@ National Aeronautics and Space Administration,2013,16868.0
 National Aeronautics and Space Administration,2014,17644.0
 National Aeronautics and Space Administration,2015,18009.0
 National Aeronautics and Space Administration,2016,19280.0
-National Aeronautics and Space Administration,2017,19309.0
-National Aeronautics and Space Administration,2018,19078.0
-National Aeronautics and Space Administration,2019,19078.0
-National Aeronautics and Space Administration,2020,19078.0
-National Aeronautics and Space Administration,2021,19078.0
-National Aeronautics and Space Administration,2022,19078.0
+National Aeronautics and Space Administration,2017,19834.0
+National Aeronautics and Space Administration,2018,20816.0
+National Aeronautics and Space Administration,2019,21498.0
+National Aeronautics and Space Administration,2020,22598.0
+National Aeronautics and Space Administration,2021,23269.0
+National Aeronautics and Space Administration,2022,24362.0
+National Aeronautics and Space Administration,2023,25566.0
+National Aeronautics and Space Administration,2024,25379.0
+National Aeronautics and Space Administration,2025,25393.0
+National Aeronautics and Space Administration,2026,25962.0
+National Aeronautics and Space Administration,2027,26561.0
+National Aeronautics and Space Administration,2028,27170.0
+National Aeronautics and Space Administration,2029,27797.0
 National Science Foundation,1976,717.0
 National Science Foundation,1977,783.0
 National Science Foundation,1978,868.0
@@ -1168,12 +1336,19 @@ National Science Foundation,2013,6997.0
 National Science Foundation,2014,7296.0
 National Science Foundation,2015,7485.0
 National Science Foundation,2016,7597.0
-National Science Foundation,2017,7546.0
-National Science Foundation,2018,6758.0
-National Science Foundation,2019,6752.0
-National Science Foundation,2020,6754.0
-National Science Foundation,2021,6756.0
-National Science Foundation,2022,6757.0
+National Science Foundation,2017,7609.0
+National Science Foundation,2018,7939.0
+National Science Foundation,2019,8230.0
+National Science Foundation,2020,8522.0
+National Science Foundation,2021,9260.0
+National Science Foundation,2022,9045.0
+National Science Foundation,2023,10035.0
+National Science Foundation,2024,9702.0
+National Science Foundation,2025,10366.0
+National Science Foundation,2026,10618.0
+National Science Foundation,2027,10857.0
+National Science Foundation,2028,11053.0
+National Science Foundation,2029,11301.0
 Office of Personnel Management,1976,8870.0
 Office of Personnel Management,1977,10255.0
 Office of Personnel Management,1978,11631.0
@@ -1215,12 +1390,19 @@ Office of Personnel Management,2013,86973.0
 Office of Personnel Management,2014,89745.0
 Office of Personnel Management,2015,92356.0
 Office of Personnel Management,2016,93745.0
-Office of Personnel Management,2017,95659.0
-Office of Personnel Management,2018,99481.0
-Office of Personnel Management,2019,103909.0
-Office of Personnel Management,2020,107323.0
-Office of Personnel Management,2021,110605.0
-Office of Personnel Management,2022,113839.0
+Office of Personnel Management,2017,98668.0
+Office of Personnel Management,2018,101568.0
+Office of Personnel Management,2019,104908.0
+Office of Personnel Management,2020,107368.0
+Office of Personnel Management,2021,109911.0
+Office of Personnel Management,2022,114534.0
+Office of Personnel Management,2023,123162.0
+Office of Personnel Management,2024,130301.0
+Office of Personnel Management,2025,135964.0
+Office of Personnel Management,2026,142352.0
+Office of Personnel Management,2027,148409.0
+Office of Personnel Management,2028,154540.0
+Office of Personnel Management,2029,160813.0
 Small Business Administration,1976,621.0
 Small Business Administration,1977,1068.0
 Small Business Administration,1978,3555.0
@@ -1262,12 +1444,19 @@ Small Business Administration,2013,952.0
 Small Business Administration,2014,139.0
 Small Business Administration,2015,-734.0
 Small Business Administration,2016,-512.0
-Small Business Administration,2017,317.0
-Small Business Administration,2018,826.0
-Small Business Administration,2019,831.0
-Small Business Administration,2020,831.0
-Small Business Administration,2021,831.0
-Small Business Administration,2022,831.0
+Small Business Administration,2017,731.0
+Small Business Administration,2018,751.0
+Small Business Administration,2019,-68.0
+Small Business Administration,2020,759559.0
+Small Business Administration,2021,208790.0
+Small Business Administration,2022,-34754.0
+Small Business Administration,2023,19929.0
+Small Business Administration,2024,32339.0
+Small Business Administration,2025,1461.0
+Small Business Administration,2026,1488.0
+Small Business Administration,2027,1510.0
+Small Business Administration,2028,1535.0
+Small Business Administration,2029,1558.0
 Social Security Administration (On-Budget),1976,6044.0
 Social Security Administration (On-Budget),1977,6612.0
 Social Security Administration (On-Budget),1978,5991.0
@@ -1309,12 +1498,19 @@ Social Security Administration (On-Budget),2013,109001.0
 Social Security Administration (On-Budget),2014,83745.0
 Social Security Administration (On-Budget),2015,89340.0
 Social Security Administration (On-Budget),2016,95342.0
-Social Security Administration (On-Budget),2017,93010.0
-Social Security Administration (On-Budget),2018,91289.0
-Social Security Administration (On-Budget),2019,104031.0
-Social Security Administration (On-Budget),2020,109706.0
-Social Security Administration (On-Budget),2021,115861.0
-Social Security Administration (On-Budget),2022,126744.0
+Social Security Administration (On-Budget),2017,92739.0
+Social Security Administration (On-Budget),2018,86248.0
+Social Security Administration (On-Budget),2019,94091.0
+Social Security Administration (On-Budget),2020,98650.0
+Social Security Administration (On-Budget),2021,92620.0
+Social Security Administration (On-Budget),2022,111728.0
+Social Security Administration (On-Budget),2023,112444.0
+Social Security Administration (On-Budget),2024,117436.0
+Social Security Administration (On-Budget),2025,128456.0
+Social Security Administration (On-Budget),2026,150662.0
+Social Security Administration (On-Budget),2027,170081.0
+Social Security Administration (On-Budget),2028,186411.0
+Social Security Administration (On-Budget),2029,190402.0
 Social Security Administration (Off-Budget),1976,74019.0
 Social Security Administration (Off-Budget),1977,84909.0
 Social Security Administration (Off-Budget),1978,93712.0
@@ -1356,12 +1552,19 @@ Social Security Administration (Off-Budget),2013,760588.0
 Social Security Administration (Off-Budget),2014,828419.0
 Social Security Administration (Off-Budget),2015,861067.0
 Social Security Administration (Off-Budget),2016,887610.0
-Social Security Administration (Off-Budget),2017,917670.0
-Social Security Administration (Off-Budget),2018,974849.0
-Social Security Administration (Off-Budget),2019,1035504.0
-Social Security Administration (Off-Budget),2020,1099003.0
-Social Security Administration (Off-Budget),2021,1162456.0
-Social Security Administration (Off-Budget),2022,1232366.0
+Social Security Administration (Off-Budget),2017,908763.0
+Social Security Administration (Off-Budget),2018,953903.0
+Social Security Administration (Off-Budget),2019,1010893.0
+Social Security Administration (Off-Budget),2020,1059296.0
+Social Security Administration (Off-Budget),2021,1102482.0
+Social Security Administration (Off-Budget),2022,1185045.0
+Social Security Administration (Off-Budget),2023,1321562.0
+Social Security Administration (Off-Budget),2024,1408986.0
+Social Security Administration (Off-Budget),2025,1496812.0
+Social Security Administration (Off-Budget),2026,1578242.0
+Social Security Administration (Off-Budget),2027,1662253.0
+Social Security Administration (Off-Budget),2028,1749556.0
+Social Security Administration (Off-Budget),2029,1838192.0
 Other Independent Agencies (On-Budget),1976,17692.0
 Other Independent Agencies (On-Budget),1977,8692.0
 Other Independent Agencies (On-Budget),1978,8981.0
@@ -1403,12 +1606,19 @@ Other Independent Agencies (On-Budget),2013,25258.0
 Other Independent Agencies (On-Budget),2014,26409.0
 Other Independent Agencies (On-Budget),2015,29533.0
 Other Independent Agencies (On-Budget),2016,27821.0
-Other Independent Agencies (On-Budget),2017,29529.0
-Other Independent Agencies (On-Budget),2018,28492.0
-Other Independent Agencies (On-Budget),2019,28353.0
-Other Independent Agencies (On-Budget),2020,29479.0
-Other Independent Agencies (On-Budget),2021,31195.0
-Other Independent Agencies (On-Budget),2022,32903.0
+Other Independent Agencies (On-Budget),2017,27482.0
+Other Independent Agencies (On-Budget),2018,29757.0
+Other Independent Agencies (On-Budget),2019,31882.0
+Other Independent Agencies (On-Budget),2020,31436.0
+Other Independent Agencies (On-Budget),2021,42511.0
+Other Independent Agencies (On-Budget),2022,54826.0
+Other Independent Agencies (On-Budget),2023,84394.0
+Other Independent Agencies (On-Budget),2024,90629.0
+Other Independent Agencies (On-Budget),2025,57385.0
+Other Independent Agencies (On-Budget),2026,48082.0
+Other Independent Agencies (On-Budget),2027,51745.0
+Other Independent Agencies (On-Budget),2028,-31437.0
+Other Independent Agencies (On-Budget),2029,57752.0
 Other Independent Agencies (Off-Budget),1976,
 Other Independent Agencies (Off-Budget),1977,
 Other Independent Agencies (Off-Budget),1978,
@@ -1450,12 +1660,19 @@ Other Independent Agencies (Off-Budget),2013,
 Other Independent Agencies (Off-Budget),2014,-3.0
 Other Independent Agencies (Off-Budget),2015,
 Other Independent Agencies (Off-Budget),2016,264.0
-Other Independent Agencies (Off-Budget),2017,264.0
-Other Independent Agencies (Off-Budget),2018,249.0
-Other Independent Agencies (Off-Budget),2019,249.0
-Other Independent Agencies (Off-Budget),2020,249.0
-Other Independent Agencies (Off-Budget),2021,249.0
-Other Independent Agencies (Off-Budget),2022,249.0
+Other Independent Agencies (Off-Budget),2017,270.0
+Other Independent Agencies (Off-Budget),2018,260.0
+Other Independent Agencies (Off-Budget),2019,-57.0
+Other Independent Agencies (Off-Budget),2020,267.0
+Other Independent Agencies (Off-Budget),2021,9997.0
+Other Independent Agencies (Off-Budget),2022,-83.0
+Other Independent Agencies (Off-Budget),2023,2935.0
+Other Independent Agencies (Off-Budget),2024,3266.0
+Other Independent Agencies (Off-Budget),2025,289.0
+Other Independent Agencies (Off-Budget),2026,301.0
+Other Independent Agencies (Off-Budget),2027,308.0
+Other Independent Agencies (Off-Budget),2028,315.0
+Other Independent Agencies (Off-Budget),2029,322.0
 Allowances,1976,
 Allowances,1977,
 Allowances,1978,
@@ -1497,12 +1714,19 @@ Allowances,2013,
 Allowances,2014,
 Allowances,2015,
 Allowances,2016,
-Allowances,2017,-13507.0
-Allowances,2018,158475.0
-Allowances,2019,-37283.0
-Allowances,2020,-131908.0
-Allowances,2021,-197166.0
-Allowances,2022,-235686.0
+Allowances,2017,
+Allowances,2018,
+Allowances,2019,
+Allowances,2020,
+Allowances,2021,
+Allowances,2022,
+Allowances,2023,
+Allowances,2024,-23060.0
+Allowances,2025,10408.0
+Allowances,2026,-37479.0
+Allowances,2027,-40068.0
+Allowances,2028,-53129.0
+Allowances,2029,-56583.0
 Undistributed Offsetting Receipts,1976,-22186.0
 Undistributed Offsetting Receipts,1977,-23018.0
 Undistributed Offsetting Receipts,1978,-24250.0
@@ -1544,12 +1768,19 @@ Undistributed Offsetting Receipts,2013,-249450.0
 Undistributed Offsetting Receipts,2014,-246158.0
 Undistributed Offsetting Receipts,2015,-257594.0
 Undistributed Offsetting Receipts,2016,-241362.0
-Undistributed Offsetting Receipts,2017,-243336.0
-Undistributed Offsetting Receipts,2018,-247944.0
-Undistributed Offsetting Receipts,2019,-234803.0
-Undistributed Offsetting Receipts,2020,-238504.0
-Undistributed Offsetting Receipts,2021,-240521.0
-Undistributed Offsetting Receipts,2022,-243515.0
+Undistributed Offsetting Receipts,2017,-236881.0
+Undistributed Offsetting Receipts,2018,-248021.0
+Undistributed Offsetting Receipts,2019,-247806.0
+Undistributed Offsetting Receipts,2020,-241570.0
+Undistributed Offsetting Receipts,2021,-273440.0
+Undistributed Offsetting Receipts,2022,-418915.0
+Undistributed Offsetting Receipts,2023,-301080.0
+Undistributed Offsetting Receipts,2024,-329026.0
+Undistributed Offsetting Receipts,2025,-326273.0
+Undistributed Offsetting Receipts,2026,-351340.0
+Undistributed Offsetting Receipts,2027,-394550.0
+Undistributed Offsetting Receipts,2028,-375264.0
+Undistributed Offsetting Receipts,2029,-407501.0
 (On-budget),1976,-18411.0
 (On-budget),1977,-19390.0
 (On-budget),1978,-20788.0
@@ -1591,12 +1822,19 @@ Undistributed Offsetting Receipts,2022,-243515.0
 (On-budget),2014,-130155.0
 (On-budget),2015,-145618.0
 (On-budget),2016,-133851.0
-(On-budget),2017,-139331.0
-(On-budget),2018,-145074.0
-(On-budget),2019,-131260.0
-(On-budget),2020,-135478.0
-(On-budget),2021,-137832.0
-(On-budget),2022,-142852.0
+(On-budget),2017,-132870.0
+(On-budget),2018,-146019.0
+(On-budget),2019,-147247.0
+(On-budget),2020,-143632.0
+(On-budget),2021,-180297.0
+(On-budget),2022,-330348.0
+(On-budget),2023,-212894.0
+(On-budget),2024,-237686.0
+(On-budget),2025,-232985.0
+(On-budget),2026,-258505.0
+(On-budget),2027,-301000.0
+(On-budget),2028,-282479.0
+(On-budget),2029,-318219.0
 (Off-budget),1976,-3775.0
 (Off-budget),1977,-3627.0
 (Off-budget),1978,-3463.0
@@ -1638,12 +1876,19 @@ Undistributed Offsetting Receipts,2022,-243515.0
 (Off-budget),2014,-116003.0
 (Off-budget),2015,-111976.0
 (Off-budget),2016,-107511.0
-(Off-budget),2017,-104005.0
-(Off-budget),2018,-102870.0
-(Off-budget),2019,-103543.0
-(Off-budget),2020,-103026.0
-(Off-budget),2021,-102689.0
-(Off-budget),2022,-100663.0
+(Off-budget),2017,-104011.0
+(Off-budget),2018,-102002.0
+(Off-budget),2019,-100559.0
+(Off-budget),2020,-97938.0
+(Off-budget),2021,-93143.0
+(Off-budget),2022,-88567.0
+(Off-budget),2023,-88186.0
+(Off-budget),2024,-91340.0
+(Off-budget),2025,-93288.0
+(Off-budget),2026,-92835.0
+(Off-budget),2027,-93550.0
+(Off-budget),2028,-92785.0
+(Off-budget),2029,-89282.0
 Total budget authority,1976,420870.0
 Total budget authority,1977,468450.0
 Total budget authority,1978,504565.0
@@ -1683,11 +1928,18 @@ Total budget authority,2011,3509881.0
 Total budget authority,2012,3576162.0
 Total budget authority,2013,3478366.0
 Total budget authority,2014,3618985.0
-Total budget authority,2015,3772716.0
-Total budget authority,2016,3972912.0
-Total budget authority,2017,4110710.0
-Total budget authority,2018,4279489.0
-Total budget authority,2019,4284736.0
-Total budget authority,2020,4431601.0
-Total budget authority,2021,4582090.0
-Total budget authority,2022,4811798.0
+Total budget authority,2015,3772698.0
+Total budget authority,2016,3972932.0
+Total budget authority,2017,4153813.0
+Total budget authority,2018,4465833.0
+Total budget authority,2019,4702504.0
+Total budget authority,2020,7734965.0
+Total budget authority,2021,7141656.0
+Total budget authority,2022,6584631.0
+Total budget authority,2023,6482157.0
+Total budget authority,2024,6948919.0
+Total budget authority,2025,7484095.0
+Total budget authority,2026,7438266.0
+Total budget authority,2027,7669568.0
+Total budget authority,2028,8064385.0
+Total budget authority,2029,8382886.0

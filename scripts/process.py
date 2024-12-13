@@ -5,6 +5,7 @@ import csv
 import zipfile
 import requests
 import openpyxl
+import pandas as pd
 
 from bs4 import BeautifulSoup
 
@@ -110,7 +111,7 @@ def process_budget_education():
     writer.writerow(outheadings)
     writer.writerows(outlines)
 
-def process():
+def calculate_data():
     with open('data/budget-education.csv', 'r') as inp1, open('archive/gdp.csv', 'r') as inp2, open('data/data.csv', 'w') as out:
         writer = csv.writer(out)
         reader1 = csv.reader(inp1)
@@ -139,6 +140,8 @@ def process():
     process_budget()
     print('Processing budget education data...') 
     process_budget_education()
+    print('Processing final data...') 
+    calculate_data()
     print('Done!')
 
 if __name__ == '__main__':

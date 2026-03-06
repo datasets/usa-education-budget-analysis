@@ -83,127 +83,13 @@
     {
       "name": "usa-education-budget-to-gdp",
       "title": "USA education budget to GDP ratio",
-      "resources": [
-        {
-          "name": "data",
-          "transform": []
-        }
-      ],
-      "specType": "vega",
+      "resourceName": "data",
+      "specType": "simple",
       "spec": {
-        "$schema": "https://vega.github.io/schema/vega/v5.json",
-        "autosize": {
-          "type": "fit-x",
-          "contains": "padding"
-        },
-        "padding": 5,
-        "height": 300,
-        "data": [
-          {
-            "name": "data",
-            "format": {
-              "type": "csv",
-              "parse": {
-                "YEAR": "number",
-                "RATIO": "number"
-              }
-            }
-          }
-        ],
-        "scales": [
-          {
-            "name": "x",
-            "type": "linear",
-            "domain": {
-              "data": "data",
-              "field": "YEAR"
-            },
-            "nice": true,
-            "range": "width"
-          },
-          {
-            "name": "y",
-            "type": "linear",
-            "domain": {
-              "data": "data",
-              "field": "RATIO"
-            },
-            "nice": true,
-            "zero": true,
-            "range": "height"
-          }
-        ],
-        "axes": [
-          {
-            "scale": "x",
-            "orient": "bottom",
-            "title": "YEAR",
-            "format": "d",
-            "tickCount": 10,
-            "labelOverlap": true
-          },
-          {
-            "scale": "y",
-            "orient": "left",
-            "title": "RATIO"
-          }
-        ],
-        "marks": [
-          {
-            "type": "line",
-            "from": {
-              "data": "data"
-            },
-            "encode": {
-              "enter": {
-                "stroke": {
-                  "value": "#2563eb"
-                },
-                "strokeWidth": {
-                  "value": 2
-                }
-              },
-              "update": {
-                "x": {
-                  "scale": "x",
-                  "field": "YEAR"
-                },
-                "y": {
-                  "scale": "y",
-                  "field": "RATIO"
-                }
-              }
-            }
-          },
-          {
-            "type": "symbol",
-            "from": {
-              "data": "data"
-            },
-            "encode": {
-              "enter": {
-                "size": {
-                  "value": 30
-                },
-                "fill": {
-                  "value": "#2563eb"
-                },
-                "tooltip": {
-                  "signal": "{'YEAR': datum.YEAR, 'RATIO': format(datum.RATIO, '.3f')}"
-                }
-              },
-              "update": {
-                "x": {
-                  "scale": "x",
-                  "field": "YEAR"
-                },
-                "y": {
-                  "scale": "y",
-                  "field": "RATIO"
-                }
-              }
-            }
-          }
+        "type": "line",
+        "group": "YEAR",
+        "series": [
+          "RATIO"
         ]
       }
     }
